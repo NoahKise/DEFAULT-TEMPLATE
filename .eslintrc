@@ -13,5 +13,6 @@
     "semi": 1,
     "indent": ["warn", 2],
     "no-console": "warn"
-  }
+  },
+  "ignorePatterns": ["**.test.js"]
 }
